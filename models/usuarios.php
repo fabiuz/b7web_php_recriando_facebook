@@ -105,8 +105,7 @@ class Usuarios extends model{
         }
 
         return $array;
-
-
-        return $array;
     }
+
+
 }

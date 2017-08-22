@@ -8,6 +8,7 @@
 
     <link rel="<?php echo BASE; ?>assets/css/template.css" >
     <script type="text/javascript" src="<?php echo BASE; ?>/assets/css/jquery-3.2.1.min.js" rel="script"></script>
+    <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/script.js"></script>
 
 
     <!-- Latest compiled and minified CSS -->
